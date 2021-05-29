@@ -1,4 +1,5 @@
 import { Navigation } from "./navigation";
+import "./App.css";
 const App = () => {
   return (
     <div>
